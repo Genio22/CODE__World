@@ -1,7 +1,8 @@
 #include <stdio.h>
 int main(){
-    printf("gdvbcvbvbf");
-    printf("Hey there");
+    int gh;
+    printf("What is your name: ");
+    scanf("%d", &gh);
     return 0;
 
 }
